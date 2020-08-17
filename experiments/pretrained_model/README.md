@@ -1,3 +1,3 @@
-Download pretrained models from Google Drive or Baidu Drive.
+Download pretrained segmentation models from https://github.com/xinntao/SFTGAN/tree/master/pretrained_models.
 
-segmentation_OST_bic.pth: segmentation model.
+Please choose: segmentation_OST_bic.pth
