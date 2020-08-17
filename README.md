@@ -28,7 +28,7 @@
 
 ### Experiments
 - `./pretrained-model/segmentation_OST_bic`: segmentation model for outdoor scenes.
-- `./models/BE-SGGAN_300000_G`: BE-SGGAN model, trained on OST and DIV2K for 4-8 bit BDE task, can be used for 4-16 bit BDE directly.
+- `./models/BE-SGGAN_300000_G`: BE-SGGAN model, trained on OSTrain and DIV2K for 4-8 bit BDE task, can be used for 4-16 bit BDE directly.
 
 ## Acknowledgement
 - Thanks to *X.Wang et al*, who are authors of "Recovering realistic texture in image super-resolution by deep spatial feature transform", published in the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), for referring to their outstanding work.
