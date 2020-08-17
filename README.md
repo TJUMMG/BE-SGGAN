@@ -1,6 +1,5 @@
 # BE-SGGAN
-- This repo only provides testing codes - **pytorch version**. If you use this code, please cite the following publication:
-- J.Liu, Q.Dou, Y.Su, P.Jing, "BE-SGGAN: Texture Realistic Bit-Depth Enhancement by Semantic Guided GAN", to appear in
+- This repo only provides testing codes - **pytorch version**. If you use this code, please cite the following publication: J.Liu, Q.Dou, Y.Su, P.Jing, "BE-SGGAN: Texture Realistic Bit-Depth Enhancement by Semantic Guided GAN", to appear in
 
 ## Dependencies
 - Python 3 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux))
@@ -32,5 +31,4 @@
 - `./models/BE-SGGAN_300000_G`: BE-SGGAN model, trained on OST and DIV2K for 4-8 bit BDE task, can be used for 4-16 bit BDE directly.
 
 ## Acknowledgement
-- Thanks to *X.Wang et al*, who are authors of "Recovering realistic texture in image super-resolution by deep spatial feature transform",
-- published in the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), for referring to their outstanding work.
+- Thanks to *X.Wang et al*, who are authors of "Recovering realistic texture in image super-resolution by deep spatial feature transform", published in the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), for referring to their outstanding work.
