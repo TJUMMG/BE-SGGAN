@@ -1,5 +1,5 @@
 # BE-SGGAN
-- This repo only provides testing codes - **pytorch version**. If you use this code, please cite the following publication: J.Liu, Q.Dou, J.Zhang, A.Liu, and X.Yang, "BE-SGGAN: Content-Aware Bit-Depth Enhancement by Semantic Guided GAN".
+- This repo only provides testing codes - **pytorch version**. If you use this code, please cite the following publication: J.Liu, Y.Gang, Q.Dou, X.Huang, and Y.Su, "BE-SGGAN: Content-Aware Bit-Depth Enhancement by Semantic Guided GAN".
 
 ## Dependencies
 - Python 3 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux))
